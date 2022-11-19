@@ -3,7 +3,6 @@ import logo from './logo.svg';
 import './App.css';
 import {Button} from "./components/Button";
 
-
 type getPropsType = {
 
     "userId": number
