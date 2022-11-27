@@ -30,7 +30,6 @@ function App() {
             <ul>
                 {get.map((el) => {
                         return (
-
                             <li>
                                 <span>{el.id} - </span>
                                 <span>{el.userId} - </span>
