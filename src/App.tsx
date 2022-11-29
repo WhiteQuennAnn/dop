@@ -34,7 +34,7 @@ function App() {
                                 <span>{el.id} - </span>
                                 <span>{el.userId} - </span>
                                 <span>{el.title}</span>
-                                <span>{el.body}</span>
+                                {/*<span>{el.body}</span>*/}
                             </li>
                         )
                     }
